@@ -9,4 +9,3 @@ test task for javaguru
 ### Update file structure
 - new things
 - options to change
-- functions
