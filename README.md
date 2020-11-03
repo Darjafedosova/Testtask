@@ -5,3 +5,8 @@ test task for javaguru
 1. install
 2. update
 3. run
+
+### Update file structure
+- new things
+- options to change
+- functions
